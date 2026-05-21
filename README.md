@@ -188,4 +188,4 @@ For QR scanning:
 Developed as a project on Zero Knowledge Proof for Identity Verification.
 ---
 ## License
-This project is developed for fusion-x hackathon 
+This project was developed for fusion-x hackathon 
