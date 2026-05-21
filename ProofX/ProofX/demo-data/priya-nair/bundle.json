@@ -1,0 +1,11 @@
+﻿{
+    "expected":  "Fails state = Karnataka or income \u003e= 500000",
+    "documents":  [
+                      "aadhaar.svg",
+                      "degree-certificate.svg",
+                      "income-certificate.svg",
+                      "address-proof.svg",
+                      "supporting-document.svg"
+                  ],
+    "photo":  "photo.svg"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Neha Iyer",
+  "dob": "1996-11-20",
+  "degree": "MBA",
+  "state": "Tamil Nadu",
+  "income": 900000,
+  "issuer": "NSDL",
+  "expected": "Fails state = Karnataka"
+}

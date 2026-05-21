@@ -1,0 +1,9 @@
+{
+  "name": "Priya Nair",
+  "dob": "2001-07-30",
+  "degree": "M.Tech",
+  "state": "Kerala",
+  "income": 480000,
+  "issuer": "DigiLocker",
+  "expected": "Fails state = Karnataka or income >= 500000"
+}

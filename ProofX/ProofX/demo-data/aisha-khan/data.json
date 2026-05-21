@@ -1,0 +1,9 @@
+{
+  "name": "Aisha Khan",
+  "dob": "2008-03-15",
+  "degree": "B.Sc",
+  "state": "Karnataka",
+  "income": 300000,
+  "issuer": "UIDAI",
+  "expected": "Fails age >= 18"
+}

@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700">
+  <rect width="1000" height="700" fill="#f8fafc"/>
+  <rect x="70" y="70" width="860" height="560" rx="24" fill="#fff" stroke="#be123c" stroke-width="4"/>
+  <rect x="70" y="70" width="860" height="110" rx="24" fill="#be123c"/>
+  <text x="110" y="128" font-family="Arial" font-size="34" font-weight="700" fill="#fff">Supporting Verification Note</text>
+  <text x="110" y="160" font-family="Arial" font-size="18" fill="#d8f3ef">Synthetic summary document for the live demo flow</text>
+  <text x="110" y="255" font-family="Arial" font-size="26" fill="#243b53">Identity: Aisha Khan</text>
+  <text x="110" y="307" font-family="Arial" font-size="26" fill="#243b53">DOB: 2008-03-15</text>
+  <text x="110" y="359" font-family="Arial" font-size="26" fill="#243b53">Degree: B.Sc</text>
+  <text x="110" y="411" font-family="Arial" font-size="26" fill="#243b53">Income: 300000</text>
+  <text x="110" y="463" font-family="Arial" font-size="26" fill="#243b53">Expected Outcome: Fails age &gt;= 18</text>
+</svg>
